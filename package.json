@@ -1,0 +1,26 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "description": "nodejs, express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaylsonMoraes/uploadFiles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaylsonMoraes/uploadFiles/issues"
+  },
+  "homepage": "https://github.com/MaylsonMoraes/uploadFiles#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "multer": "^1.4.4",
+    "node": "^17.4.0",
+    "nodemon": "^2.0.15"
+  }
+}
